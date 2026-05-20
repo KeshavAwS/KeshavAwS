@@ -27,3 +27,9 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KeshavAwS&theme=darkhub&no-frame=true&row=1&column=6)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KeshavAwS&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeshavAwS/KeshavAwS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeshavAwS/KeshavAwS/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/KeshavAwS/KeshavAwS/output/github-contribution-grid-snake.svg" />
+</picture>
