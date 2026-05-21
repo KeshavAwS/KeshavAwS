@@ -19,7 +19,7 @@
 </a>
 
 ![GitHub Stats](https://github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/api?username=KeshavAwS&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/top-langs/?username=KeshavAwS&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/api/top-langs/?username=KeshavAwS&layout=compact&theme=github_dark&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=KeshavAwS&theme=github-dark-blue&hide_border=true)
 
