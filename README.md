@@ -46,13 +46,13 @@
 <div align="center">
 
 <a href="https://github.com/KeshavAwS/flowcanvas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeshavAwS&repo=flowcanvas&theme=github_dark&hide_border=true&cache_seconds=1800" alt="flowcanvas" />
+  <img src="https://github-readme-stats-eight-wheat-71.vercel.app/api/pin/?username=KeshavAwS&repo=flowcanvas&theme=github_dark&hide_border=true&cache_seconds=1800" alt="flowcanvas" />
 </a>
 <a href="https://github.com/KeshavAwS/metadata-checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeshavAwS&repo=metadata-checker&theme=github_dark&hide_border=true&cache_seconds=1800" alt="metadata-checker" />
+  <img src="https://github-readme-stats-eight-wheat-71.vercel.app/api/pin/?username=KeshavAwS&repo=metadata-checker&theme=github_dark&hide_border=true&cache_seconds=1800" alt="metadata-checker" />
 </a>
 <a href="https://github.com/KeshavAwS/Laravel_Blog_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeshavAwS&repo=Laravel_Blog_App&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Laravel_Blog_App" />
+  <img src="https://github-readme-stats-eight-wheat-71.vercel.app/api/pin/?username=KeshavAwS&repo=Laravel_Blog_App&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Laravel_Blog_App" />
 </a>
 
 </div>
