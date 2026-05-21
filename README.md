@@ -9,18 +9,18 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,git,github,vercel)](https://skillicons.dev)
 
 <a href="https://github.com/KeshavAwS/flowcanvas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeshavAwS&repo=flowcanvas&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/api/pin/?username=KeshavAwS&repo=flowcanvas&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/KeshavAwS/metadata-checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeshavAwS&repo=metadata-checker&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/api/pin/?username=KeshavAwS&repo=metadata-checker&theme=github_dark&hide_border=true" />
 </a>
 </a>
 <a href="https://github.com/KeshavAwS/Laravel_Blog_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeshavAwS&repo=Laravel_Blog_App&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/api/pin/?username=KeshavAwS&repo=Laravel_Blog_App&theme=github_dark&hide_border=true" />
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeshavAwS&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavAwS&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/api?username=KeshavAwS&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](github-readme-stats-he6nxnxop-keshavaws-projects.vercel.app/top-langs/?username=KeshavAwS&layout=compact&theme=github_dark&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=KeshavAwS&theme=github-dark-blue&hide_border=true)
 
